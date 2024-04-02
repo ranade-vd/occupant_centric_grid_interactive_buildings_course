@@ -105,7 +105,8 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 
 ### Week 12 - 20240403 ###
 #### Grid-Interactive Buildings ####
-- Lecture notes
+- [Tutorial 1: Object-oriented programming: The _Pythonic_ way](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/notebooks/tutorials/object_oriented_programming.ipynb)
+- [Tutorial 2: CityLearn tutorial](https://github.com/intelligent-environments-lab/CityLearn/blob/master/examples/tutorial.ipynb)
 
 ### Week 13 - 20240410 ###
 #### Grid-Interactive Buildings ####
