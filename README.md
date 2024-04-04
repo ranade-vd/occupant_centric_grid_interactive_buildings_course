@@ -25,7 +25,7 @@ If you can, please [provide anonymous feedback](https://forms.gle/DYwHeBhVKpinui
 
 _Note 2_: Some of the homework content requires access to non-public AMI data (eg HW2), you can replace those with other AMI data, e.g., from the [Building Data Genome 2 Project](https://github.com/buds-lab/building-data-genome-project-2).
 
-_Note 3_: The class features a public guest lecture webinar with industry experts. You can sign up for it here: https://www.eventbrite.com/e/grid-interactive-buildings-webinar-series-tickets-781139989737
+_Note 3_: The class features a public guest lecture webinar with industry experts. The recordings are on YouTube [https://www.youtube.com/playlist?list=PLEeGlt2hsCUSeEwgNYla43xpRjZloMfW-](https://www.youtube.com/playlist?list=PLEeGlt2hsCUSeEwgNYla43xpRjZloMfW-)
 
 
 ## Overview ##
