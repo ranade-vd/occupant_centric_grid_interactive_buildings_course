@@ -111,7 +111,7 @@ The class is organized in three main modules: Machine Learning (W1-W4), Occupant
 ### Week 13 - 20240410 ###
 #### Grid-Interactive Buildings ####
 - Project work in CityLearn
-- Guest Lecture: Siva Sankaranarayanan (EPRI)
+- Guest Lecture: Siva Sankaranarayanan (EPRI) [[Slides](https://github.com/intelligent-environments-lab/occupant_centric_grid_interactive_buildings_course/blob/main/src/lectures/MFAHtoGEB-10Apr2024-SivaS.pdf)][[Recording](https://youtu.be/_y9u7h8GelQ?feature=shared)]
 
 
 ### Week 14—15  ###
